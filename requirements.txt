@@ -1,5 +1,6 @@
-nltk
+#nltk
 numpy
 pandas
 streamlit
 vaderSentiment
+nltk
